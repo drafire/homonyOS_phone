@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "phone"
+    },
+    {
+      "name": "mainability_description",
+      "value": "Java_Phone_Shopping Feature Ability"
+    },
+    {
+      "name": "testability_description",
+      "value": "Java_Phone_Empty Feature Ability"
+    }
+  ]
+}
